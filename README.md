@@ -8,4 +8,4 @@ Here stars represent the star value out of 5, by is the number of user-ratings y
 
 By default, if you use `[rated]` shortcode only, it will take a 5 star rating value with 2 votes (review counts).
 
-More details → (How to Show Star Ratings with Blog Posts in Search Results?)[https://gauravtiwari.org/show-star-ratings-with-blog-posts/]
+More details → [How to Show Star Ratings with Blog Posts in Search Results?](https://gauravtiwari.org/show-star-ratings-with-blog-posts/)
